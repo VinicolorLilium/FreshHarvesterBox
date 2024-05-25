@@ -121,7 +121,7 @@ h6 {
 }
 
 .page {
-  background-color: #cc566d;
+  background-color: #0f9edb;
 }
 
 /*
@@ -240,7 +240,7 @@ body::after {
 .order-popup__close {
   width: 0.875rem;
   height: 0.875rem;
-  border-top: 3px solid #cc566d;
+  border-top: 3px solid #0f9edb;
   position: absolute;
   right: 2.5rem;
   top: 1.25rem;
@@ -251,7 +251,7 @@ body::after {
   line-height: 1.1;
   font-weight: 500;
   text-transform: uppercase;
-  color: #cc566d;
+  color: #0f9edb;
 }
 
 .order-popup__title:not(:last-child) {
@@ -527,7 +527,7 @@ body::after {
      -moz-column-gap: 0.625rem;
           column-gap: 0.625rem;
   min-height: 3.125rem;
-  color: #cc566d;
+  color: #0f9edb;
 }
 
 .header__menu {
@@ -560,7 +560,7 @@ body::after {
 }
 
 .menu__list a:hover {
-  color: #90cc2f;
+  color: #02b5c2;
 }
 
 .cart {
@@ -573,14 +573,14 @@ body::after {
 }
 
 .cart__img {
-  fill: #cc566d;
+  fill: #0f9edb;
   width: 100%;
   height: 100%;
 }
 
 .cart__num {
   position: absolute;
-  background-color: #cc566d;
+  background-color: #0f9edb;
   color: #fff;
   width: 1rem;
   height: 1rem;
@@ -605,7 +605,7 @@ body::after {
 
 .footer {
   padding: 5rem 0;
-  color: #cc566d;
+  color: #0f9edb;
 }
 
 .footer__inner {
@@ -626,7 +626,7 @@ body::after {
   height: 11.1875rem;
   border-radius: 6.25rem;
   overflow: hidden;
-  background-color: #cc566d;
+  background-color: #0f9edb;
 }
 
 .footer__img:not(:last-child) {
@@ -663,13 +663,13 @@ body::after {
 }
 
 .social svg {
-  fill: #cc566d;
+  fill: #0f9edb;
 }
 
 .social__link {
   width: 2.75rem;
   height: 2.75rem;
-  border: 1px solid #cc566d;
+  border: 1px solid #0f9edb;
   border-radius: 0.625rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -807,7 +807,7 @@ body::after {
   height: 7.125rem;
   border-radius: 50%;
   background-color: #fff;
-  color: #cc566d;
+  color: #0f9edb;
   font-size: 1.75rem;
   line-height: 1;
   font-weight: 500;
@@ -852,7 +852,7 @@ body::after {
 }
 
 .fruit-box--green {
-  background-color: #90cc2f;
+  background-color: #02b5c2;
   -ms-grid-column: 1;
   -ms-grid-column-span: 1;
   grid-column: 1/2;
@@ -860,7 +860,7 @@ body::after {
 }
 
 .fruit-box--yellow {
-  background-color: #ffd500;
+  background-color: #d19213;
   grid-column: 3/-1;
   -ms-grid-row: 2;
   -ms-grid-row-span: 2;
@@ -977,11 +977,11 @@ body::after {
 }
 
 .cards-steps__item:nth-child(2) .cards-steps__btn {
-  background-color: #90cc2f;
+  background-color: #02b5c2;
 }
 
 .cards-steps__item:nth-child(3) .cards-steps__btn {
-  background-color: #ffd500;
+  background-color: #d19213;
 }
 
 .cards-steps__btn {
@@ -998,7 +998,7 @@ body::after {
       -ms-flex-pack: center;
           justify-content: center;
   padding: 0.625rem;
-  background-color: #cc566d;
+  background-color: #0f9edb;
   border-radius: 12.5rem;
   font-size: 1.125rem;
   line-height: 1.3333333333;
@@ -1046,7 +1046,7 @@ body::after {
   width: 9rem;
   height: 9rem;
   border-radius: 50%;
-  background-color: #90cc2f;
+  background-color: #02b5c2;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1179,7 +1179,7 @@ body::after {
   width: 8.5rem;
   min-height: 3rem;
   background-color: #fff;
-  color: #cc566d;
+  color: #0f9edb;
   font-size: 1.125rem;
   line-height: 1.3333333333;
   font-weight: 500;
@@ -1318,7 +1318,7 @@ body::after {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #90cc2f;
+  background-color: #02b5c2;
   border-radius: 6.25rem;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
@@ -1583,7 +1583,7 @@ body::after {
     top: 3.125rem;
     width: 100vw;
     height: 100vh;
-    background-color: #cc566d;
+    background-color: #0f9edb;
     color: #fff;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -1610,7 +1610,7 @@ body::after {
 
   .cart__num {
     background-color: #fff;
-    color: #cc566d;
+    color: #0f9edb;
   }
 
   .icon-menu {
@@ -1632,7 +1632,7 @@ body::after {
     position: absolute;
     width: 100%;
     height: 0.125rem;
-    background-color: #cc566d;
+    background-color: #0f9edb;
   }
 
   .icon-menu::before {
@@ -2502,16 +2502,16 @@ body::after {
   }
 
   .nav-footer__list a:hover {
-    color: #90cc2f;
-    border-bottom: 1px solid #90cc2f;
+    color: #02b5c2;
+    border-bottom: 1px solid #02b5c2;
   }
 
   .social__link:hover {
-    background-color: rgba(204, 86, 109, 0.1);
+    background-color: rgba(15, 158, 219, 0.1);
   }
 
   .shop-now__link:hover {
-    color: #90cc2f;
+    color: #02b5c2;
   }
 
   .cards-steps__btn:hover {
@@ -2521,11 +2521,11 @@ body::after {
 
   .fruits__btn:hover {
     background-color: #fff;
-    color: #90cc2f;
+    color: #02b5c2;
   }
 
   .fruits__btn:hover svg {
-    fill: #90cc2f;
+    fill: #02b5c2;
   }
 
   .cards-fruits__link:hover {
@@ -2535,7 +2535,7 @@ body::after {
 
   .form-feedback__btn:hover {
     background-color: #fff;
-    color: #90cc2f;
+    color: #02b5c2;
   }
 }
 
